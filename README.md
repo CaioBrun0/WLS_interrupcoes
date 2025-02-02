@@ -3,7 +3,7 @@
 ## Introdução
 Este projeto tem o intuito de testar os conhecimentos dos residentes sobre interrupções e o sistema de debounce. Ele foi projetado para controlar um contador representado em uma matriz de LED 5x5 usando um Raspberry Pi Pico enquanto um LED vermelho pisca 5 vezes por segundo. O sistema usa botões GPIO para percorrer os números (0-9), que são exibidos na matriz de LED usando WS2812B LEDs. O projeto aproveita o PIO (Entrada/Saída Programável) do Pico para controle eficiente de LED.
 
-## Features
+## Características
 - Usa Raspberry Pi Pico para controlar uma matriz de LED 5x5
 - Exibe números de 0 a 9 usando matrizes RGB predefinidas
 - Dois botões: A e B da BitDogLab, para navegar pelos números
