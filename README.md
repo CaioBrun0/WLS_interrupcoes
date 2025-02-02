@@ -113,11 +113,6 @@ Com essa abordagem, evitamos o uso de loops constantes para verificar os botões
    ```
 3. Carregue o arquivo '.uf2' gerado para o Pico arrastando-o para o armazenamento USB montado.
 
-## Future Improvements
-- Adicione mais efeitos visuais (por exemplo, transições de fade)
-- Suporte para padrões ou símbolos adicionais
-- Implemente comunicação serial para controle remoto
-
 ## Author
 Caio Bruno Santos Matos de Oliveira
 
